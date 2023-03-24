@@ -23,7 +23,7 @@
 
         cd ~/snap/exercism/5/exercism/php/hello-world    
 
-       ➜ ~/snap/exercism/5/exercism/php./phpunit HelloWorldTest.php
+       ➜ ~/snap/exercism/5/exercism/php/./phpunit HelloWorldTest.php
 
 [PHPUnit]: https://phpunit.de
 
